@@ -10,7 +10,7 @@ repositoriode github (master)
 2. cambios delta
 	base de datos atomica del codigo
 3. historial de cadaarchivo
-4. multiples persona sobre el mismo archivo
+4. multiples persona sobre el mismo arcrgr6yhrhivo
 5. CULPA AL CULPABLE
 6. ramas (branches)
 	*master (githubcom) Repo princial
