@@ -1,21 +1,40 @@
+FTP
+Transmisión de archivos
+Hosting barato normal --> /public_html/ <-- FTP
+	index.php
+	images
+	leonidas.jpg
+www.fuckencio.com
+
+SISTEMA DE CONTROL DE VERSIONES 
+
+SVN: Subversion / Mercurial / TFS / CVS / GIT
 Github
 1. Red social de programadores
-2.web / apps
-3. mucho mas facil que FTP
+2. Web / Apps
+3. Mucho más fácil
 
 ====
 
-repositoriode github (master)
-1. multiples versiones del mismo codigo
-2. cambios delta
-	base de datos atomica del codigo
-3. historial de cadaarchivo
-4. multiples persona sobre el mismo arcrgr6yhrhivo
+Repositorio de código GITHUB (master)
+
+1. Múltiples versiones del mismo código
+2. Cambios Delta
+	Base de datos atómica del código
+3. Historial de cada archivo
+4. Múltiples personas sobre el mismo archivo
 5. CULPA AL CULPABLE
-6. ramas (branches)
-	*master (githubcom) Repo princial
-	*master (disco duro) red local
+6. Ramas (branches)
+	* master (github.com) REPO PRINCIPAL
+	* master (disco duro) REPO LOCAL
 		* master
-			--- MERGE (fusion entre experimental -master)
-		*experimental que es local
-	* master (servidor.com) repoproduccion
+			--- MERGE (experimental - master)
+		* experimental local
+	* master (servidor.com) REPO PRODUCCION
+
+
+
+
+
+
+
